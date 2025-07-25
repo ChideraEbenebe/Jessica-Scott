@@ -4,7 +4,7 @@ import Main from './component/main';
 import Navbar from './component/nav';
 import Projects from './component/projects';
 import Skills from './component/skills';
-import Spacer from './component/spacer';
+
 import Testimonials from './component/testimonials';
 
 export default function Home() {
@@ -16,7 +16,6 @@ export default function Home() {
       <Skills />
       <Projects />
       <Testimonials />
-      {/* <Spacer /> */}
       <Connect />
     </div>
   );

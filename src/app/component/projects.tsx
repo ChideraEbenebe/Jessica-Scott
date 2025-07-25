@@ -70,7 +70,7 @@ const Projects = () => {
               className='text-lg leading-relaxed indent-12 tracking-wider'
               ref={textRef}>
               These are some of my favorite projects that showcases a diverse
-              range of projects where I've prioritized user experience and
+              range of projects where I&apos;ve prioritized user experience and
               visual aesthetics. Each project reflects my dedication to creating
               seamless and delightful digital experiences.
             </p>

@@ -201,7 +201,7 @@ const Content = () => {
             <p
               className={`${bebasNeue.className} antialiased text-gray-400 text-xl tracking-wider text-balance leading-10 `}
               ref={bioRef}>
-              As a UI/UX designer with four years of experience, I've
+              As a UI/UX designer with four years of experience, I&apos;ve
               consistently pour my heart and soul into creating products that
               not only look great but feel amazing to use. Currently, I work as
               a Senior designer at Dreamies Studio.

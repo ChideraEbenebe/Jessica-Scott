@@ -81,7 +81,7 @@ const Connect = () => {
             </h6>
 
             <p className='text-balance text-xl text-gray-400  tracking-wider pb-24'>
-              I'm a UI/UX designer on a mission to make <br /> digital
+              I&apos;m a UI/UX designer on a mission to make <br /> digital
               experiences more delightful.
             </p>
 

@@ -18,9 +18,9 @@ const Testimonials = () => {
           <div className='flex flex-col items-start gap-20 '>
             <h2
               className={`${rationale.className} text-xl tracking-wider w-1/2 indent-12 text-gray-400`}>
-              It's a great way to get a sense of what it looks like to work with
-              me. Here, you'll find firsthand accounts from people who have
-              experienced my services.
+              It&apos;s a great way to get a sense of what it looks like to work
+              with me. Here, you&apos;ll find firsthand accounts from people who
+              have experienced my services.
             </h2>
           </div>
 

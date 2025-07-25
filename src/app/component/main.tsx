@@ -104,7 +104,7 @@ const Main = () => {
       <section className='flex flex-col gap-4 section'>
         <h2
           className={`${anton.className} text-green-400 uppercase text-[2.5rem] text-center`}>
-          Hi, I'm Jess!
+          Hi, I&apos;m Jess!
         </h2>
         <div className={`${bebasNeue.className} antialiased `}>
           <div
@@ -127,7 +127,7 @@ const Main = () => {
           className={`${anton.className} antialiased `}
           ref={slide4Ref}>
           <div className={`text-center font-extralight text-xl mb-2 `}>
-            <p>I'm an UI/UX designer on a mission to make digital</p>
+            <p>I&apos;m an UI/UX designer on a mission to make digital</p>
           </div>
           <div className={`text-center font-extralight text-xl  `}>
             <p>experiences more delightful</p>
