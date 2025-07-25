@@ -1,7 +1,0 @@
-import React from 'react';
-
-const Spacer = () => {
-  return <div className='h-screen'></div>;
-};
-
-export default Spacer;

@@ -3,7 +3,7 @@ import { Anton } from 'next/font/google';
 import './globals.css';
 import SmoothScrollWrapper from './component/SmoothScrollWrapper';
 
-export const anton = Anton({
+const anton = Anton({
   subsets: ['latin'],
   weight: ['400'],
   display: 'swap',
